@@ -1,0 +1,13 @@
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csprojAssemblyReference.cache
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfo.cs
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.exe
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.deps.json
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.json
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.dev.json
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\David Darby\Desktop\Sam Pretends to Teach\Visual Studio\Code\Week 8\ArrayPractice\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.genruntimeconfig.cache
