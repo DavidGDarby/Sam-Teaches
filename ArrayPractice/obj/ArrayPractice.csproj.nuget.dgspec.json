@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Darby\\Desktop\\Sam Pretends to Teach\\Visual Studio\\Code\\Week 8\\ArrayPractice\\ArrayPractice\\ArrayPractice.csproj": {}
+    "C:\\Git\\Sam-Teaches\\ArrayPractice\\ArrayPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Darby\\Desktop\\Sam Pretends to Teach\\Visual Studio\\Code\\Week 8\\ArrayPractice\\ArrayPractice\\ArrayPractice.csproj": {
+    "C:\\Git\\Sam-Teaches\\ArrayPractice\\ArrayPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Darby\\Desktop\\Sam Pretends to Teach\\Visual Studio\\Code\\Week 8\\ArrayPractice\\ArrayPractice\\ArrayPractice.csproj",
+        "projectUniqueName": "C:\\Git\\Sam-Teaches\\ArrayPractice\\ArrayPractice.csproj",
         "projectName": "ArrayPractice",
-        "projectPath": "C:\\Users\\David Darby\\Desktop\\Sam Pretends to Teach\\Visual Studio\\Code\\Week 8\\ArrayPractice\\ArrayPractice\\ArrayPractice.csproj",
+        "projectPath": "C:\\Git\\Sam-Teaches\\ArrayPractice\\ArrayPractice.csproj",
         "packagesPath": "C:\\Users\\David Darby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Darby\\Desktop\\Sam Pretends to Teach\\Visual Studio\\Code\\Week 8\\ArrayPractice\\ArrayPractice\\obj\\",
+        "outputPath": "C:\\Git\\Sam-Teaches\\ArrayPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Darby\\AppData\\Roaming\\NuGet\\NuGet.Config",
